@@ -65,7 +65,7 @@ Foam Board / Cardboard          1          Wheel face dial and pointer
 
 ## 📸 Images & Video
 
-  ![Photo1](images/photo1.jpg)   ![Photo2](images/photo2.jpg)   ![Video1](images/video1.mp4)
+  ![Photo1](images/photo1.jpg)   ![Photo2](images/photo2.jpg)   ![Video1](images/video1.gif)
   ------------------------------ ------------------------------
 
 ------------------------------------------------------------------------
